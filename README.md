@@ -12,4 +12,7 @@ We used 80% of the data for training and 20% for testing.
 
 Please find the code for the Custom implementation of Multinomial Naive Bayes Classifier [here](SMSSpamClassification-CustomImplementation.ipynb).
 
-Please find the code for the Scikit-learn implementations of the four mentioned models [here](SMSSpamClassficiation-PreTrained.ipynb).
+Please find the code for the Scikit-learn implementations of the four mentioned models [here](SMSSpamClassficiation-BuiltIn.ipynb).
+
+Please find the latex files for the report [here](./latex)
+ - [Report](./latex/main.tex)
